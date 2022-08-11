@@ -1,4 +1,4 @@
-package com.example.mobileskillupsession
+package com.example.mobileskillupsession.srp
 
 class Auth {
 

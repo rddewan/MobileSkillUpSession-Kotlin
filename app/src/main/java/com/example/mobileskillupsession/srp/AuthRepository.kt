@@ -1,6 +1,4 @@
-package com.example.mobileskillupsession
-
-import java.io.File
+package com.example.mobileskillupsession.srp
 
 class AuthRepository(private val auth: Auth, private val fileLogger: FileLogger) {
 
